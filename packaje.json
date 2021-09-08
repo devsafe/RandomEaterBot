@@ -1,0 +1,13 @@
+{
+  "name": "debug_u_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "telegraf": "^3.38.0",
+    "nodemon": "^2.0.4"
+  }
+}
